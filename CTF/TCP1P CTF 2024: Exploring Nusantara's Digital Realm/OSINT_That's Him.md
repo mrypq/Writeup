@@ -23,7 +23,7 @@ Exaample: TCP1P{Japan, Tokyo, Katsushika, Tateishi, 124-0012}
 `Uruma-shi` とか `Ishikawa Shirahama` とか色々バリエーション試してもダメ。  
 ということできちんとストリートビューと[郵便番号区分け](https://www.mapion.co.jp/m2/26.431271294124464,127.83141551622523,18)を確認してみると、この辺りは郵便番号が三つ巴になっていた。  
 
-![](assets/postcode.png)
+![](assets/postcode.png)  
 ↑写真付近の郵便番号区分け  
 ※mapionより引用, 赤字郵便番号を加筆  
 
